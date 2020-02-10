@@ -1,6 +1,7 @@
 <h2>Cara install</h2><br>
 <h3>• $pkg up<br>
-• $pkg i python<br>
+• $pkg i git python<br>
+• $git clone https://github.com/Zxce3/Kontools<br>
 • $cd Kontools<br>
 • $python Kontools.py<br></h3>
 
