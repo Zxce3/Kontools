@@ -12,7 +12,7 @@ def ban2(d):
     for c in d + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(random.random() * 0.1)
+        time.sleep(random.random() * 0.01)
 ban2('$                      /"\Terimakasih buat\n$                     |\./| Z1zo\n$                     |   |Kang_adeet\n$                     |   |Memet\n$                     |>~<|L4ura\n$                     |   |Mutiaa\n$                  /"\|   |/"\.. Mantan\n$              /~\|   |   |   | \ Dan semua yang belom w sebut\n$             |   =[@]=   |   |  \ Ingat Manusia\n$             |   |   |   |   |   \ Hanya Menilai Hasil\n$             | ~   ~   ~   ~ |`   ) Bukan proses\n$             |                   / Ataupun kerja\n$              \                 / Keras\n$               \               / \n$                \    _____    / #fanisep\n$                 |--//''`\--| Deebweb Internasional Comunity\n$                 | (( +==)) | we are family\n$                 |--\_|_//--|we are Fredly')
 
 def ban3(f):
