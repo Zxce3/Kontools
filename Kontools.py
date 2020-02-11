@@ -445,8 +445,7 @@ while loop:
         rmenu = input("[?] Mau ke menu lagi cuk?? (y/n): ")
         if rmenu == "y":
             menu()
-        else:
-            break
+        elif what == "19":
             os.system("pkg update -y")
             os.system("pkg install -y git")
             os.system("pkg install -y python2")
